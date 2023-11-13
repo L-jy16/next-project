@@ -65,10 +65,15 @@ PS C:\Users\line\Desktop\WEBS0106\next-project> npm run dev<br />
 Attention: Next.js now collects completely anonymous telemetry regarding usage.<br />
 This information is used to shape Next.js' roadmap and prioritize features.<br />
 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:<br />
-https://nextjs.org/telemetry<br />
+"url 주소"<br />
 
  ✓ Ready in 3.5s<br />
  ○ Compiling / ...<br />
  ✓ Compiled / in 4.3s (517 modules)<br />
  ○ Compiling /favicon.ico ...<br />
  ✓ Compiled /favicon.ico in 1721ms (513 modules)<br />
+
+# 설치
+1. gsap 설치 `npm i gsap`
+2. sass 설치 `npm i sass`
+3. lenis 설치 `npm i @studio-freight/lenis`

@@ -9,6 +9,9 @@
 <br/>
 프레임워크는 React를 기반으로 하며, React의 컴포넌트 기반 접근 방식을 유지하면서 추가적인 기능을 제공합니다. 이를 통해 개발자는 복잡한 설정 없이도 빠르게 애플리케이션을 구축할 수 있습니다.
 
+# 미리보기
+미리보기 : https://next-project-virid-two.vercel.app/
+
 # 셋팅
 1. 설치하기 `npx create-next-app@latest`
 2. 설정내용<br />
